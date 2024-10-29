@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    background: rgb(38, 38, 38);
+    color: red;
+    font-weight: bold;
+}
+img{
+    height: 400px;
+}
+h1,h2{
+    font-size: 35px;
+    margin: 20px;
+}
+p{
+    font-size: 20px;
+    color: white;
+}
+input{
+    height: 20px;
+    width: 20%;
+}
